@@ -2,6 +2,7 @@
 
 Founder and full-stack engineer at **Nexude LLC**. I design, build, ship and operate
 products end to end: web and mobile apps, APIs, databases, infrastructure and games.
+Before and alongside that: eight years in a hospital imaging department (PACS, DICOM, HIPAA).
 
 - 🧭 Case studies of my production work: **[portfolio](https://github.com/Nexude-ZainaV/portfolio)**
 - 💼 [LinkedIn](https://www.linkedin.com/in/kim-angelo-lopena-b276a2419)
@@ -29,7 +30,9 @@ products end to end: web and mobile apps, APIs, databases, infrastructure and ga
 
 | Product | What it is | Stack |
 |---|---|---|
-| [HuniWhisp](https://github.com/Nexude-ZainaV/portfolio/blob/main/projects/huniwhisp.md) | Anonymous journaling and community platform on web, Android and iOS | Next.js · React · TypeScript · MySQL (AWS RDS) · Capacitor |
+| [HuniWhisp](https://github.com/Nexude-ZainaV/portfolio/blob/main/projects/huniwhisp.md) | Anonymous journaling and community platform on web and Android, about 4,200 members | Next.js · React · TypeScript · MySQL (AWS RDS) · Capacitor |
+| [Nexudeit](https://github.com/Nexude-ZainaV/portfolio/blob/main/projects/nexudeit.md) | Peer-to-peer marketplace with escrow-style card holds | Next.js · React · TypeScript · Prisma · Stripe |
+| [Healthcare imaging](https://github.com/Nexude-ZainaV/portfolio/blob/main/projects/healthcare-imaging.md) | Hospital PACS operations, and DICOM Cleaner Pro | PACS · DICOM · HIPAA · Electron · Java |
 | [Trovio](https://github.com/Nexude-ZainaV/portfolio/blob/main/projects/trovio.md) | Collection and inventory platform | Next.js · React · TypeScript · MySQL · PWA |
 | [KinStation](https://github.com/Nexude-ZainaV/portfolio/blob/main/projects/kinstation.md) | Pet information platform | Next.js · React · TypeScript · Prisma |
 | [Stellar Forge](https://github.com/Nexude-ZainaV/portfolio/blob/main/projects/stellar-forge.md) | Idle / battler game for Steam and Android | Godot 4 · GDScript |
